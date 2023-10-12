@@ -1,0 +1,19 @@
+h1{
+    text-align: left;
+    font-size:70px;
+}
+div{
+    text-align: left;
+    font-size: 20px;
+    border: 1px solid;
+    margin-right: 1100px;
+    border-color: black;
+    
+}
+#scale{
+    font-size: 30px;
+
+}
+#sum{
+    font-size: 30px;
+}
